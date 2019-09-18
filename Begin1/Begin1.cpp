@@ -6,6 +6,6 @@ int main()
 	int a;
 	cin >> a;
 	int p = 4 * a;
-	cout << "Perimrter=\n"<<p;
-
+	cout << "Perimeter=\n"<<p;
+	return 0;
 }

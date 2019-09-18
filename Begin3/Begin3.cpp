@@ -10,4 +10,5 @@ int main()
 	int p = 2*(b + a);
 	cout << "Perimrter="<<p<<"\n";
 	cout << "Square="<<s<<"\n";
+	return 0;
 }
