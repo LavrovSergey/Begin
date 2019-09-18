@@ -2,9 +2,10 @@
 using namespace std;
 int main()
 {
-	cout << "Enter diameter to know the length of circle\n";
-	int d;
-	cin >> d;
-	double L = 3.14 * d;
-	cout << "The length of circle is"<< L;
+	cout << "Enter centimeters to see how many meters it is\n";
+	int a;
+	cin >> a;
+	int b = a / 100;
+	cout << "It is"<< b<<" meters";
+	return 0;
 }
